@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://prabhujkmrs.github.io/csb-7tpdj/static/css/main.2a91fba7.chunk.css",
+    "main.js": "https://prabhujkmrs.github.io/csb-7tpdj/static/js/main.98bec44d.chunk.js",
+    "main.js.map": "https://prabhujkmrs.github.io/csb-7tpdj/static/js/main.98bec44d.chunk.js.map",
+    "runtime-main.js": "https://prabhujkmrs.github.io/csb-7tpdj/static/js/runtime-main.178ec848.js",
+    "runtime-main.js.map": "https://prabhujkmrs.github.io/csb-7tpdj/static/js/runtime-main.178ec848.js.map",
+    "static/js/2.79b9668d.chunk.js": "https://prabhujkmrs.github.io/csb-7tpdj/static/js/2.79b9668d.chunk.js",
+    "static/js/2.79b9668d.chunk.js.map": "https://prabhujkmrs.github.io/csb-7tpdj/static/js/2.79b9668d.chunk.js.map",
+    "index.html": "https://prabhujkmrs.github.io/csb-7tpdj/index.html",
+    "static/css/main.2a91fba7.chunk.css.map": "https://prabhujkmrs.github.io/csb-7tpdj/static/css/main.2a91fba7.chunk.css.map",
+    "static/js/2.79b9668d.chunk.js.LICENSE.txt": "https://prabhujkmrs.github.io/csb-7tpdj/static/js/2.79b9668d.chunk.js.LICENSE.txt",
+    "static/media/sunny.b9c652a1.png": "https://prabhujkmrs.github.io/csb-7tpdj/static/media/sunny.b9c652a1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.178ec848.js",
+    "static/js/2.79b9668d.chunk.js",
+    "static/css/main.2a91fba7.chunk.css",
+    "static/js/main.98bec44d.chunk.js"
+  ]
+}
